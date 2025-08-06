@@ -10,9 +10,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMeowhite&show_icons=true&theme=default&card_height=200" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMeowhite&layout=compact&hide=html,css&card_height=200" width="48%" />
+<div align="center" style="display:flex; gap:10px; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MMeowhite&show_icons=true&theme=default" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMeowhite&layout=compact&hide=html,css" width="48%" height="200" />
 </div>
 
 ---
