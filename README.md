@@ -10,6 +10,14 @@
 
 ---
 
+### 📊 GitHub Stats
+![MMeowhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMeowhite&show_icons=true&theme=default)
+
+### 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMeowhite&layout=compact&hide=html,css)
+
+---
+
 ## 🔬 Research Interests
 - **AI for Science**: Deep learning for multi-omics integration & biological insights  
 - **Cancer Immunotherapy**: Exosome engineering, RNA interference, redox regulation  
@@ -41,6 +49,7 @@ _Mengmeng Zhang, Xiangru Kong, Jing Chen, **Peng Miao** et al._ **Journal of Aff
 ---
 
 ## 🚀 Projects
+- **[]
 - **[AI4Science Repo](https://github.com/MMeowhite/AI4Science)**: Deep learning for multi-omics fusion (code + tutorials)
 - **[Personal Website](https://yourwebsite.com)**: Academic portfolio, blog, and project showcase
 - **Research Logs**: 2-year personal research journaling & reflections
@@ -48,8 +57,8 @@ _Mengmeng Zhang, Xiangru Kong, Jing Chen, **Peng Miao** et al._ **Journal of Aff
 ---
 
 ## 🌐 Connect with Me
-- **Website**: [MMeowhite.com](https://yourwebsite.com)  
-- **Google Scholar**: [My Publications](https://scholar.google.com/)  
-- **Email**: [mmeowhite@email.com](mailto:mmeowhite@email.com)  
+- **Website**: [miaopeng.info](https://www.miaopeng.info)  
+- **Google Scholar**: [My Publications](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ&hl=zh-CN)
+- **Email**: [miaopeng_edu@163.com](mailto:miaopeng_edu@163.com); [miaopeng@stu.scu.edu.cn](mailto:miaopeng@stu.scu.edu.cn)
 
 > _“Science is best when shared.”_ – Let's collaborate!
