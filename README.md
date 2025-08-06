@@ -1,4 +1,6 @@
 # Hi 👋, I'm Peng Miao (MMeowhite)
+I explore the intersection of AI + life sciences, aiming to transform biomedical research with computational tools.
+My work spans from deep learning for multi-omics, multi-modality to experimental cancer biology, and I love open-sourcing code & sharing knowledge.
 
 🎓 **Master's student** in Basic Medicine @ Sichuan University  
 🎓 **B.Med in Medical Imaging** @ Chongqing Medical University  
@@ -6,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-miaopeng.info-blue?style=flat-square&logo=google-chrome)](https://www.miaopeng.info/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)]((https://scholar.google.com/citations?user=Y5lz1jMAAAAJ))
-[![Email](https://img.shields.io/badge/Email-mmeowhite%40email.com-red?style=flat-square&logo=gmail)](mailto:mmeowhite@email.com)
+[![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com%40email.com-red?style=flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
 
 ---
 
@@ -24,7 +26,7 @@
 
 ---
 
-## 📚 Publications
+## 📚 Selected Publications
 - **Exosome-Engineered Spatiotemporal Redox Disruption Synergizes with RNA Interference to Ablate Cancer Stemness for Potentiating Colorectal Cancer Immunotherapy**  
 _Peng Miao et al._ Submitted to **Journal of Controlled Release**, 2025  
 
@@ -33,17 +35,6 @@ _Jiangjun Cao, Siyuan Qin, Bowen Li, Zhe Zhang, **Peng Miao** et al._ **Gut**, i
 
 - **Oxidative Stress in Antigen Processing and Presentation**  
 _Qinxia Chang, Yaying Zhang, Xiaojun Liu, **Peng Miao** et al._ **MedComm–Oncology**, 2025  
-
-- **Dysfunction of GluN3A subunit is involved in depression-like behaviors through synaptic deficits**  
-_Mengmeng Zhang, Xiangru Kong, Jing Chen, **Peng Miao** et al._ **Journal of Affective Disorders**, 2023  
-
----
-
-## 🛠️ Skills
-- **Programming & Data Science**: Python (PyTorch, scikit-learn, NumPy, Pandas), R, MATLAB  
-- **AI & Deep Learning**: Multimodal learning, generative models, biological data analysis  
-- **Computational Experiments**: Molecular dynamics (GROMACS, AMBER), structural modeling  
-- **Molecular Biology**: Cell culture, protein purification, Western Blot, qPCR  
 
 ---
 
