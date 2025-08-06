@@ -10,6 +10,7 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)]((https://scholar.google.com/citations?user=Y5lz1jMAAAAJ))
 [![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
 
+> _“Science is best when shared.”_ – Let's collaborate!
 ---
 
 ## 🔬 Research Interests
@@ -32,9 +33,4 @@ _Qinxia Chang, Yaying Zhang, Xiaojun Liu, **Peng Miao** et al._ **MedComm–Onco
 
 ---
 
-## 🌐 Connect with Me
-- **Website**: [miaopeng.info](https://www.miaopeng.info)  
-- **Google Scholar**: [My Publications](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ&hl=zh-CN)
-- **Email**: [miaopeng_edu@163.com](mailto:miaopeng_edu@163.com); [miaopeng@stu.scu.edu.cn](mailto:miaopeng@stu.scu.edu.cn)
 
-> _“Science is best when shared.”_ – Let's collaborate!
