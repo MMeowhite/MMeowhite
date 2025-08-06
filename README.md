@@ -6,10 +6,11 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 🎓 **B.Med in Medical Imaging** @ Chongqing Medical University  
 💡 **AI4Science | Cancer Immunotherapy | Computational Biology | Multimodal Deep Learning**  
 
+<div align="center" style="display:flex; gap:10px; justify-content:center;">
 [![Website](https://img.shields.io/badge/Website-miaopeng.info-blue?style=flat-square&logo=google-chrome)](https://www.miaopeng.info/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)]((https://scholar.google.com/citations?user=Y5lz1jMAAAAJ))
 [![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
-
+</div>
 ---
 
 <div align="center" style="display:flex; gap:10px; justify-content:center;">
