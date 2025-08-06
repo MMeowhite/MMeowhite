@@ -47,14 +47,6 @@ _Mengmeng Zhang, Xiangru Kong, Jing Chen, **Peng Miao** et al._ **Journal of Aff
 
 ---
 
-## 🚀 Projects
-- **[]
-- **[AI4Science Repo](https://github.com/MMeowhite/AI4Science)**: Deep learning for multi-omics fusion (code + tutorials)
-- **[Personal Website](https://yourwebsite.com)**: Academic portfolio, blog, and project showcase
-- **Research Logs**: 2-year personal research journaling & reflections
-
----
-
 ## 🌐 Connect with Me
 - **Website**: [miaopeng.info](https://www.miaopeng.info)  
 - **Google Scholar**: [My Publications](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ&hl=zh-CN)
