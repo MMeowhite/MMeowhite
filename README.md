@@ -23,13 +23,13 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 
 ## 📚 Selected Publications
 - **Exosome-Engineered Spatiotemporal Redox Disruption Synergizes with RNA Interference to Ablate Cancer Stemness for Potentiating Colorectal Cancer Immunotherapy**  
-_Peng Miao et al._ Submitted to **Journal of Controlled Release**, 2025  
+_Peng Miao et al._ Submitted to **Journal of Nanobiotechnology**, 2025  
 
 - **Extracellular vesicle-induced lipid dysregulation drives liver premetastatic niche formation in colorectal cancer**  
 _Jiangjun Cao, Siyuan Qin, Bowen Li, Zhe Zhang, **Peng Miao** et al._ **Gut**, in press, 2025  
 
-- **Oxidative Stress in Antigen Processing and Presentation**  
-_Qinxia Chang, Yaying Zhang, Xiaojun Liu, **Peng Miao** et al._ **MedComm–Oncology**, 2025  
+- **Self-assembly driven nano-salinomycin for high-efficiency cancer immunotherapy by reticulum stress mediated stemness suppression**
+_Longqin Wang, Wenting Cheng, Siyuan Qin, Hailong Tian, Guowen Liu, **Peng Miao** et al._ **Biomaterials**, 2025  
 
 ---
 
