@@ -6,12 +6,13 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 🎓 **B.Med in Medical Imaging** @ Chongqing Medical University  
 💡 **AI4Science | Cancer Immunotherapy | Computational Biology | Multimodal Deep Learning**  
 
+[![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=9flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
 [![Website](https://img.shields.io/badge/Website-miaopeng.info-blue?style=flat-square&logo=google-chrome)](https://www.miaopeng.info/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![Citations](https://scholar-badge.vercel.app/api/citations/Y5lz1jMAAAAJ?style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![h-index](https://scholar-badge.vercel.app/api/hindex/Y5lz1jMAAAAJ?style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![i10-index](https://scholar-badge.vercel.app/api/i10index/Y5lz1jMAAAAJ?style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=9flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
+[![Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=Y5lz1jMAAAAJ&style=flat-square&label=Total%20Citations)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![h-index](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/h_index?user=Y5lz1jMAAAAJ&style=flat-square&label=h-index)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![i10-index](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/i10_index?user=Y5lz1jMAAAAJ&style=flat-square&label=i10-index)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+
 
 ---
 
