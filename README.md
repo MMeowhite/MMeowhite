@@ -7,8 +7,11 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 💡 **AI4Science | Cancer Immunotherapy | Computational Biology | Multimodal Deep Learning**  
 
 [![Website](https://img.shields.io/badge/Website-miaopeng.info-blue?style=flat-square&logo=google-chrome)](https://www.miaopeng.info/) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)]((https://scholar.google.com/citations?user=Y5lz1jMAAAAJ))
-[![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=Y5lz1jMAAAAJ&style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![h-index](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/h-index?user=Y5lz1jMAAAAJ&style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![i10-index](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/i10-index?user=Y5lz1jMAAAAJ&style=flat-square)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
+[![Email](https://img.shields.io/badge/Email-miaopeng_edu@163.com-red?style=9flat-square&logo=gmail)](mailto:miaopeng_edu@163.com)
 
 ---
 
@@ -20,5 +23,3 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 
 > _“Science is best when shared.”_ – Let's collaborate!
 ---
-
-
