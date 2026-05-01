@@ -10,8 +10,6 @@ My work spans from deep learning for multi-omics, multi-modality to experimental
 [![Website](https://img.shields.io/badge/Website-miaopeng.info-blue?style=flat-square&logo=google-chrome)](https://www.miaopeng.info/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4A90E2?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
 [![Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=Y5lz1jMAAAAJ&style=flat-square&label=Total%20Citations)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![h-index](https://img.shields.io/badge/dynamic/json?style=flat-square&label=h-index&query=h_index&url=https%3A%2F%2Fscholarmetrics.vercel.app%2Fapi%2Fscholar%3Fuser%3DY5lz1jMAAAAJ&color=blue)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
-[![i10-index](https://img.shields.io/badge/dynamic/json?style=flat-square&label=i10-index&query=i10_index&url=https%3A%2F%2Fscholarmetrics.vercel.app%2Fapi%2Fscholar%3Fuser%3DY5lz1jMAAAAJ&color=orange)](https://scholar.google.com/citations?user=Y5lz1jMAAAAJ)
 
 
 ---
